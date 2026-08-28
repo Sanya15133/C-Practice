@@ -3,8 +3,15 @@
 int main()
 
 {
-    int x;
-    int y, z;
+    int width;
+    width = 5;
+
+    std::cout << width;
+
+    width = 7;
+
+    std::cout << width;
 
     return 0;
+
 }
