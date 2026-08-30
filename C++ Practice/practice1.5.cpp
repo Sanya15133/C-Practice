@@ -6,8 +6,15 @@
 //     return 0;
 // }
 
+// int main()
+// {
+//     std::cout << 4;
+//     return 0;
+// }
+
 int main()
 {
-    std::cout << 4;
+    int x{ 5 };
+    std::cout << x;
     return 0;
 }
