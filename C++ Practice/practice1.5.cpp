@@ -12,9 +12,16 @@
 //     return 0;
 // }
 
+// int main()
+// {
+//     int x{ 5 };
+//     std::cout << x;
+//     return 0;
+// }
+
 int main()
 {
     int x{ 5 };
-    std::cout << x;
+    std::cout << "X is equal to: " << x;
     return 0;
 }
