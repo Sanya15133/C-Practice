@@ -19,9 +19,16 @@
 //     return 0;
 // }
 
+// int main()
+// {
+//     int x{ 5 };
+//     std::cout << "X is equal to: " << x;
+//     return 0;
+// }
+
 int main()
 {
-    int x{ 5 };
-    std::cout << "X is equal to: " << x;
+    std::cout << "Hi";
+    std::cout << "My name is ";
     return 0;
 }
