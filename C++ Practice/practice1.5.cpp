@@ -26,9 +26,9 @@
 //     return 0;
 // }
 
-int main()
-{
-    std::cout << "Hi";
-    std::cout << "My name is ";
-    return 0;
-}
+// int main()
+// {
+//     std::cout << "Hi";
+//     std::cout << "My name is ";
+//     return 0;
+// }
