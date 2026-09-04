@@ -32,3 +32,10 @@
 //     std::cout << "My name is ";
 //     return 0;
 // }
+
+int main()
+    {
+        std::cout << "Hi!" << std::endl;
+        std::cout << "My name is..." << std::endl;
+        return 0;
+    }
