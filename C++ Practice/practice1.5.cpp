@@ -51,10 +51,10 @@
 //     return 0;
 // }
 
+
 int main()
 {
-    std::cout << "Enter two numbers: ";
-
+    std::cout << "Enter 2 numbers: ";
     int x{};
     std::cin >> x;
 
@@ -64,4 +64,5 @@ int main()
     std::cout << "You entered " << x << " and " << y << '\n';
 
     return 0;
+
 }
