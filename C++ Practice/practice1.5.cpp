@@ -52,17 +52,17 @@
 // }
 
 
-int main()
-{
-    std::cout << "Enter 2 numbers: ";
-    int x{};
-    std::cin >> x;
+// int main()
+// {
+//     std::cout << "Enter 2 numbers: ";
+//     int x{};
+//     std::cin >> x;
 
-    int y{};
-    std::cin >> y;
+//     int y{};
+//     std::cin >> y;
 
-    std::cout << "You entered " << x << " and " << y << '\n';
+//     std::cout << "You entered " << x << " and " << y << '\n';
 
-    return 0;
+//     return 0;
 
-}
+// }
