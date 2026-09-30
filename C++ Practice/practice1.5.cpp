@@ -66,3 +66,10 @@
 //     return 0;
 
 // }
+
+int main()
+{
+    int x;
+    std::cout << x << '\n';
+    return 0;
+}
