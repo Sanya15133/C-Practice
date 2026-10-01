@@ -73,3 +73,18 @@
 //     std::cout << x << '\n';
 //     return 0;
 // }
+
+void doNothing(int&)
+{
+}
+
+int main()
+{
+int x;
+
+doNothing(x);
+
+std::cout << x << '\n';
+
+return 0;
+}
