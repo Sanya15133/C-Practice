@@ -74,17 +74,17 @@
 //     return 0;
 // }
 
-void doNothing(int&)
-{
-}
+// void doNothing(int&)
+// {
+// }
 
-int main()
-{
-int x;
+// int main()
+// {
+// int x;
 
-doNothing(x);
+// doNothing(x);
 
-std::cout << x << '\n';
+// std::cout << x << '\n';
 
-return 0;
-}
+// return 0;
+// }
