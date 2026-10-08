@@ -90,9 +90,9 @@
 // }
 
 
-int main()
-{
-	std::cout << sizeof(int) << '\n'; // print how many bytes of memory an int value takes
+// int main()
+// {
+// 	std::cout << sizeof(int) << '\n'; // print how many bytes of memory an int value takes
 
-	return 0;
-}
+// 	return 0;
+// }
